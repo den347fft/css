@@ -2,7 +2,7 @@ body{
     /* background-repeat: no-repeat; 
     overflow: hidden; */
     position: relative;
-    background-color: lightcoral;
+    background-color: darkred;
 }
 h1{
     position: relative;
@@ -111,7 +111,7 @@ button:active{
 button:hover{
     background-color: lawngreen;
     position: relative;
-    color: darkolivegreen;
+    color: red;
     font-size: 45px;
     cursor: pointer;
 }
