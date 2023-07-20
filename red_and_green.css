@@ -1,0 +1,150 @@
+body{
+    /* background-repeat: no-repeat; 
+    overflow: hidden; */
+    position: relative;
+    background-color: lightcoral;
+}
+h1{
+    position: relative;
+    color: green;
+    font-size: 55px;
+    -webkit-text-stroke: 1px ;
+}
+h1:hover{
+    position: relative;
+    left: 600px;
+    color: red;
+    font-size: 55px;
+    -webkit-text-stroke: 1px  lightgreen;
+}
+h2{
+    position: relative;
+    color: green;
+    font-size: 55px;
+    -webkit-text-stroke: 1px ;
+}
+h2:hover{
+    position: relative;
+    left: 500px;
+    color: red;
+    font-size: 55px;
+    -webkit-text-stroke: 1px  lightgreen;
+}
+h3{
+    position: relative;
+    color: green;
+    font-size: 55px;
+    -webkit-text-stroke: 1px ;
+}
+h3:hover{
+    position: relative;
+    left: 400px;
+    color: red;
+    font-size: 55px;
+    -webkit-text-stroke: 1px  lightgreen;
+}
+h4{
+    position: relative;
+    color: green;
+    font-size: 55px;
+    -webkit-text-stroke: 1px ;
+}
+h4:hover{
+    position: relative;
+    left: 300px;
+    color: red;
+    font-size: 55px;
+    -webkit-text-stroke: 1px  lightgreen;
+}
+h5{
+    position: relative;
+    color: green;
+    font-size: 55px;
+    -webkit-text-stroke: 1px ;
+}
+h5:hover{
+    position: relative;
+    left: 200px;
+    color: red;
+    font-size: 55px;
+    -webkit-text-stroke: 1px  lightgreen;
+}
+h6{
+    position: relative;
+    color: green;
+    font-size: 55px;
+    -webkit-text-stroke: 1px ;
+}
+h6:hover{
+    position: relative;
+    left: 100px;
+    color: red;
+    font-size: 55px;
+    -webkit-text-stroke: 1px  lightgreen;
+}
+
+p{
+    position: relative;
+    color: red;
+    font-size: 45px;
+    -webkit-text-stroke: 2px;   
+}
+p:hover{
+    position: relative;
+    color: green;
+    font-size: 45px;
+    -webkit-text-stroke: 2px seagreen;   
+}
+button{
+    background-color: green;
+    position: relative;
+    color: red;
+    font-size: 45px;
+}
+button:active{
+    background-color: red;
+    position: relative;
+    color: green;
+    font-size: 45px;
+    -webkit-text-stroke :2px black;
+}
+button:hover{
+    background-color: lawngreen;
+    position: relative;
+    color: darkolivegreen;
+    font-size: 45px;
+    cursor: pointer;
+}
+label{
+    position: relative;
+    color: red;
+    font-size: 45px;
+    -webkit-text-stroke: 2px;   
+}
+label:hover{
+    position: relative;
+    color: green;
+    font-size: 45px;
+    -webkit-text-stroke: 2px darkolivegreen;   
+}
+input{
+    background-color: darkolivegreen;
+    color: red;
+}
+input:active{
+    background-color: red;
+    color: lawngreen;
+    border: none;
+}
+input:hover{
+    background-color: green;
+    color: lawngreen;
+    border-radius: 10px;
+}
+a{
+    color: red;
+    font-size: 45px;
+}
+u:hover{
+    -webkit-text-stroke: 2px lightgreen;    
+}
